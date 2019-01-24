@@ -34,12 +34,12 @@
         ?>
 
         <?php
-            include('Modulos/home.php');
+            include('Modulos/carrusel.php');
         ?>
 
         <!-- About -->
         <?php
-            include('Modulos/about.php');
+            include('Modulos/empresa.php');
         ?>
         <!-- About end -->
 
@@ -51,13 +51,13 @@
 
         <!-- Services -->
         <?php
-            include('Modulos/services.php');
+            include('Modulos/servicios.php');
         ?>
         <!-- Services end -->
 
         <!-- Portfolio -->
         <?php
-            include('Modulos/portfolio.php');
+            include('Modulos/productos.php');
         ?>
         <!-- Portfolio end -->
 
@@ -69,7 +69,7 @@
 
         <!-- Contact form -->
         <?php
-            include('Modulos/contact_form.php');
+            include('Modulos/contactanos.php');
         ?>
         <!-- Contact form end -->
 
