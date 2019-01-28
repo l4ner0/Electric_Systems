@@ -1,20 +1,22 @@
 <head>
     <meta charset="utf-8">
-    <title>Construction - Free HTML Bootstrap Template</title>
+    <title>Electric Systems</title>
     <!-- Mobile Specific Meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <!-- Custom Fonts -->
-    <link rel="stylesheet" href="Vistas/Componentes/custom-font/fonts.css" />
+    <link rel="stylesheet" href="Vistas/custom-font/fonts.css" />
     <!-- Bootstrap -->
-    <link rel="stylesheet" href="Vistas/Componentes/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="Vistas/css/bootstrap.min.css" />
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="Vistas/Componentes/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="Vistas/css/font-awesome.min.css" />
     <!-- Bootsnav -->
-    <link rel="stylesheet" href="Vistas/Componentes/css/bootsnav.css">
+    <link rel="stylesheet" href="Vistas/css/bootsnav.css">
     <!-- Fancybox -->
-    <link rel="stylesheet" type="text/css" href="Vistas/Componentes/css/jquery.fancybox.css?v=2.1.5" media="screen" />	
+    <link rel="stylesheet" type="text/css" href="Vistas/css/jquery.fancybox.css?v=2.1.5" media="screen" />	
     <!-- Custom stylesheet -->
-    <link rel="stylesheet" href="Vistas/Componentes/css/custom.css" />
+    <link rel="stylesheet" href="Vistas/css/custom.css" />
+    <link type="text/css" rel="stylesheet" href="Vistas/css/404.css" />
+    <link href="https://fonts.googleapis.com/css?family=Cabin:400,700" rel="stylesheet">
     <!--[if lt IE 9]>
             <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->

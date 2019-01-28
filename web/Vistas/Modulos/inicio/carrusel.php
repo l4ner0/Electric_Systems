@@ -4,7 +4,7 @@
         <!-- Carousel-inner -->
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <img src="Vistas/Componentes/images/slider_img.jpg" alt="Construction">
+                <img src="Vistas/images/slider_img.jpg" alt="Construction">
                 <div class="overlay">
                     <div class="carousel-caption">
                         <h3>We are Certified Engineers</h3>
@@ -17,7 +17,7 @@
                 </div>
             </div>
             <div class="item">
-                <img src="Vistas/Componentes/images/slider_img2.jpg" alt="Construction">
+                <img src="Vistas/images/slider_img2.jpg" alt="Construction">
                 <div class="overlay">
                     <div class="carousel-caption">
                         <h3>We are Certified Engineers</h3>
@@ -30,7 +30,7 @@
                 </div>
             </div>
             <div class="item">
-                <img src="Vistas/Componentes/images/slider_img3.jpg" alt="Construction">
+                <img src="Vistas/images/slider_img3.jpg" alt="Construction">
                 <div class="overlay">
                     <div class="carousel-caption">
                         <h3>We are Certified Engineers</h3>

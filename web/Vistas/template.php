@@ -6,9 +6,8 @@
     ?>
    
     <body>
-
         <!-- Preloader -->
-
+    
         <div id="loading">
             <div id="loading-center">
                 <div id="loading-center-absolute">
@@ -25,57 +24,32 @@
                 </div>
             </div>
         </div>
-
         <!--End off Preloader -->
-    
+        <?php
+            include('Vistas/General/header.php');
+        ?>
+
+        <div id="ContenedorPrincipal">
+
+            <?php
+                /*<!--=====================================
+                  =            Manejo de Rutas            =
+                  ======================================-->*/
+
+                    $enlace = new ControladorPlantilla();
+                    $enlace -> ctrEnlaces();
+            ?>    
         
-        <?php
-            include('General/header.php');
-        ?>
-
-        <?php
-            include('Modulos/carrusel.php');
-        ?>
-
-        <!-- About -->
-        <?php
-            include('Modulos/empresa.php');
-        ?>
-        <!-- About end -->
-
-        <!-- Why us -->
-        <?php
-            include('Modulos/why_us.php');
-        ?>
-       <!-- Why us end -->
-
-        <!-- Services -->
-        <?php
-            include('Modulos/servicios.php');
-        ?>
-        <!-- Services end -->
-
-        <!-- Portfolio -->
-        <?php
-            include('Modulos/productos.php');
-        ?>
-        <!-- Portfolio end -->
-
-        <!-- Testimonial -->
-        <?php
-            include('Modulos/testimonial.php');
-        ?>
-        <!-- Testimonial end -->
-
+        </div>
+        
         <!-- Contact form -->
         <?php
-            include('Modulos/contactanos.php');
+            include('Vistas/Modulos/Contacto/contactanos.php');
         ?>
-        <!-- Contact form end -->
-
+        
         <!-- Footer -->
         <?php
-            include('General/footer.php');
+            include('Vistas/General/footer.php');
         ?>
     </body>	
 </html>	

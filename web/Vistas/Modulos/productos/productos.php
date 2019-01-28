@@ -14,41 +14,41 @@
         <div class="grid">
             <div class="grid-sizer"></div>
             <div class="grid-item grid-item--width2 grid-item--height2 buildings plumbing interior">
-                <img alt="" src="Vistas/Componentes/images/highligh_img.jpg" >
+                <img alt="" src="Vistas/images/highligh_img.jpg" >
                 <div class="portfolio_hover_area">
-                    <a class="fancybox" href="Vistas/Componentes/images/highligh_img.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><span class="fa fa-search"></span></a>
+                    <a class="fancybox" href="Vistas/images/highligh_img.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><span class="fa fa-search"></span></a>
                     <a href="#"><span class="fa fa-link"></span></a>
                 </div>  
             </div>
 
             <div class="grid-item buildings interior isolation">
-                <img alt="" src="Vistas/Componentes/images/portfolio1.jpg" >
+                <img alt="" src="Vistas/images/portfolio1.jpg" >
                 <div class="portfolio_hover_area">
-                    <a class="fancybox" href="Vistas/Componentes/images/portfolio1.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><span class="fa fa-search"></span></a>
+                    <a class="fancybox" href="Vistas/images/portfolio1.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><span class="fa fa-search"></span></a>
                     <a href="#"><span class="fa fa-link"></span></a>
                 </div>   
             </div>
 
             <div class="grid-item interior plumbing isolation">
-                <img alt="" src="Vistas/Componentes/images/portfolio2.jpg" >
+                <img alt="" src="Vistas/images/portfolio2.jpg" >
                 <div class="portfolio_hover_area">
-                    <a class="fancybox" href="Vistas/Componentes/images/portfolio2.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><span class="fa fa-search"></span></a>
+                    <a class="fancybox" href="Vistas/images/portfolio2.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><span class="fa fa-search"></span></a>
                     <a href="#"><span class="fa fa-link"></span></a>
                 </div>  
             </div>
 
             <div class="grid-item isolation buildings">
-                <img alt="" src="Vistas/Componentes/images/portfolio3.jpg" >
+                <img alt="" src="Vistas/images/portfolio3.jpg" >
                 <div class="portfolio_hover_area">
-                    <a class="fancybox" href="Vistas/Componentes/images/portfolio3.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><span class="fa fa-search"></span></a>
+                    <a class="fancybox" href="Vistas/images/portfolio3.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><span class="fa fa-search"></span></a>
                     <a href="#"><span class="fa fa-link"></span></a>
                 </div>  
             </div>
 
             <div class="grid-item plumbing isolation">
-                <img alt="" src="Vistas/Componentes/images/portfolio4.jpg" >
+                <img alt="" src="Vistas/images/portfolio4.jpg" >
                 <div class="portfolio_hover_area">
-                    <a class="fancybox" href="Vistas/Componentes/images/portfolio4.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><span class="fa fa-search"></span></a>
+                    <a class="fancybox" href="Vistas/images/portfolio4.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><span class="fa fa-search"></span></a>
                     <a href="#"><span class="fa fa-link"></span></a>
                 </div>  
             </div>

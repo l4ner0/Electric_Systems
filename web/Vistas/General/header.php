@@ -6,7 +6,7 @@
             <ul class="list-inline info">
                 <li><a><span class="fa fa-phone"></span> 999857183 / 938567893</a></li>
                 <li><a><span class="fa fa-envelope"></span> rlcelectricsystems@gmail.com</a></li>
-                <li><a><span class="fa fa-car"></span> Calle 17  Mz. R  lote 36  Urb. Los Nísperos – SMP</a></li>
+                <li><a><span class="fa fa-map-marker"></span> Calle 17  Mz. R  lote 36  Urb. Los Nísperos – SMP</a></li>
             </ul>
             <ul class="list-inline social_icon">
                 <li><a href=""><span class="fa fa-facebook"></span></a></li>
@@ -23,21 +23,21 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                     <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href=""><img class="logo" src="Vistas/Componentes/images/Logo5.png" alt=""></a>
+                <a class="navbar-brand" href="inicio"><img class="logo" src="Vistas/images/Logo5.png" alt=""></a>
             </div>
             <!-- Navigation -->
             <div class="collapse navbar-collapse" id="navbar-menu">
                 <ul class="nav navbar-nav menu">
-                    <li><a href="">Inicio</a></li>                    
+                    <li><a href="inicio">Inicio</a></li>                    
                     <li class="dropdown">
-                      <a class="btn dropdown-toggle" id="menuEmpresa" data-toggle="dropdown">
-                        Empresa
-                      </a>
-                      <ul class="dropdown-menu" role="menu" aria-labelledby="menuEmpresa">
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#about">Visión</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#about">Misión</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#about">Valores</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#about">Sistema de Gestión</a></li>
+                      <a class="btn dropdown-toggle" id="menuServicios" data-toggle="dropdown">Empresa</a>
+                      <ul class="dropdown-menu" role="menu" aria-labelledby="menuServicios">
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="empresa-quienes-somos">¿Quiénes somos?</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="empresa-vision">Visión</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="empresa-mision">Misión</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="empresa-valores">Valores</a>
+                        </li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="empresa-sistema-de-gestion">Sistema de Gestión</a></li>
                       </ul>
                     </li>
                     <li class="dropdown">
@@ -45,12 +45,12 @@
                         Servicios
                       </a>
                       <ul class="dropdown-menu" role="menu" aria-labelledby="menuServicios">
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#services">Proyectos eléctricos en media y baja tensión</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#services">Instalaciones eléctricas en media y baja tensión</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#services">Mantenimiento</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#services">Iluminación industrial y comercial</a>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios">Proyectos Eléctricos</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios">Instalaciones Eléctricas</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios">Mantenimiento</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios">Iluminación</a>
                         </li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#services">Otros Servicios</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios">Otros Servicios</a></li>
                       </ul>
                     </li>
                     <li class="dropdown">
@@ -58,9 +58,9 @@
                         Productos
                       </a>
                       <ul class="dropdown-menu" role="menu" aria-labelledby="menuProductos">
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Fabricación de tableros eléctricos</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Fabricación de bandejas portacables</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Fabricación de celdas en media tensión</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="productos">Tableros eléctricos</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="productos">Bandejas portacables</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="productos">Celdas en media tensión</a></li>
                       </ul>
                     </li>
                     <li><a href="#contact_form">Contactanos</a></li>
