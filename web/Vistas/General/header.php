@@ -1,7 +1,7 @@
 <!-- Header -->
 <header>
     <!-- Top Navbar -->
-    <div class="top_nav">
+    <div class="top_nav hidden-xs">
         <div class="container">
             <ul class="list-inline info">
                 <li><a><span class="fa fa-phone"></span> 999857183 / 938567893</a></li>
@@ -37,7 +37,7 @@
                         <li role="presentation"><a role="menuitem" tabindex="-1" href="empresa-mision">Misión</a></li>
                         <li role="presentation"><a role="menuitem" tabindex="-1" href="empresa-valores">Valores</a>
                         </li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="empresa-sistema-de-gestion">Sistema de Gestión</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="empresa-politica-de-gestion">Políticas de Gestión</a></li>
                       </ul>
                     </li>
                     <li class="dropdown">

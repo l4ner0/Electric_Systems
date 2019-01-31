@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="Vistas/css/custom.css" />
     <link type="text/css" rel="stylesheet" href="Vistas/css/404.css" />
     <link href="https://fonts.googleapis.com/css?family=Cabin:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="Vistas/css/estilos.css">
     <!--[if lt IE 9]>
             <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
