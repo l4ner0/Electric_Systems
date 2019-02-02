@@ -4,26 +4,26 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="service_item">
-                    <img src="Vistas/images/service_img1.jpg" alt="Our Services" />
-                    <h3>CONSTRUCTION MANAGEMENT</h3>
-                    <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,</p>
-                    <a href="#services" class="btn know_btn">know more</a>
+                    <img src="Vistas/images/AUTOMATIZACIÓN DE PLANTAS INDUSTRIALES.jpg" alt="Our Services" />
+                    <h3>AUTOMATIZACIÓN DE PLANTAS INDUSTRIALES</h3>
+                    <p>Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento</p>
+                    <a href="servicios-servicio" class="btn know_btn">Leer más</a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="service_item">
-                    <img src="Vistas/images/service_img2.jpg" alt="Our Services" />
-                    <h3>RENOVATION</h3>
-                    <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,</p>
-                    <a href="#services" class="btn know_btn">know more</a>
+                    <img src="Vistas/images/AUTOMATIZACIÓN DE PLANTAS INDUSTRIALES.jpg" alt="Our Services" />
+                    <h3>ESTUDIO Y EJECUCIÓN DE PROYECTOS ELÉCTRICOS DE ILUMINACIÓN</h3>
+                   <p>Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento</p>
+                    <a href="servicios-servicio" class="btn know_btn">Leer más</a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="service_item">
-                    <img src="Vistas/images/service_img3.jpg" alt="Our Services" />
-                    <h3>ARCHITECTURE</h3>
-                    <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,</p>
-                    <a href="#services" class="btn know_btn">know more</a>
+                    <img src="Vistas/images/AUTOMATIZACIÓN DE PLANTAS INDUSTRIALES.jpg" alt="Our Services" />
+                    <h3>ESTUDIO Y MONTAJE DE EQUIPOS DE AIRE ACONDICIONADO</h3>
+                   <p>Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento</p>
+                    <a href="servicios-servicio" class="btn know_btn">Leer más</a>
                 </div>
             </div>
         </div>

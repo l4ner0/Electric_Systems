@@ -45,12 +45,12 @@
                         Servicios
                       </a>
                       <ul class="dropdown-menu" role="menu" aria-labelledby="menuServicios">
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios">Proyectos Eléctricos</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios">Instalaciones Eléctricas</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios">Mantenimiento</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios">Iluminación</a>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios-servicio">Proyectos Eléctricos</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios-servicio">Instalaciones Eléctricas</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios-servicio">Mantenimiento</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios-servicio">Iluminación</a>
                         </li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios">Otros Servicios</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios-servicio">Otros Servicios</a></li>
                       </ul>
                     </li>
                     <li class="dropdown">
@@ -58,9 +58,9 @@
                         Productos
                       </a>
                       <ul class="dropdown-menu" role="menu" aria-labelledby="menuProductos">
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="productos">Tableros eléctricos</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="productos">Bandejas portacables</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="productos">Celdas en media tensión</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="productos-producto">Tableros eléctricos</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="productos-producto">Bandejas portacables</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="productos-producto">Celdas en media tensión</a></li>
                       </ul>
                     </li>
                     <li><a href="#contact_form">Contactanos</a></li>

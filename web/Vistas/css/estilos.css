@@ -17,3 +17,13 @@
 #politicas{
 	font-size: 16px;
 }
+
+.titulo-servicio{
+	margin: 85px 0 50px;
+    text-align: left;
+}
+
+.titulo-producto{
+	margin: 85px 0 50px;
+    text-align: left;
+}

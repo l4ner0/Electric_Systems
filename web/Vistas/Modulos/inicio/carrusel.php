@@ -4,15 +4,13 @@
         <!-- Carousel-inner -->
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <img src="Vistas/images/slider_img.jpg" alt="Construction">
+                <img src="Vistas/images/footer_bg.jpg"  alt="Construction">
                 <div class="overlay">
                     <div class="carousel-caption">
-                        <h3>We are Certified Engineers</h3>
-                        <h1>Construction Services</h1>
-                        <h1 class="second_heading">Creative & Professional</h1>
-                        <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,</p>
-                        <a  class="btn know_btn">know more</a>
-                        <a  class="btn know_btn">view project</a>
+                        <div class="hidden-lg"><br><br><br></div>
+                        <h3>Somos Profesionales Dedicados a </h3>
+                        <h1>Elaboración y Ejecución de Proyectos Eléctricos</h1>
+                        <h1 class="second_heading">En Media y Baja Tensión</h1>
                     </div>					
                 </div>
             </div>
@@ -20,26 +18,22 @@
                 <img src="Vistas/images/slider_img2.jpg" alt="Construction">
                 <div class="overlay">
                     <div class="carousel-caption">
-                        <h3>We are Certified Engineers</h3>
-                        <h1>Construction Services</h1>
-                        <h1 class="second_heading">Creative & Professional</h1>
-                        <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,</p>
-                        <a  class="btn know_btn">know more</a>
-                        <a  class="btn know_btn">view project</a>
-                    </div>					
+                        <div class="hidden-lg"><br><br><br></div>
+                        <h3>Somos Profesionales Dedicados a </h3>
+                        <h1>Automatización de </h1>
+                        <h1 class="second_heading">Plantas Industriales</h1>
+                    </div>  					
                 </div>
             </div>
             <div class="item">
                 <img src="Vistas/images/slider_img3.jpg" alt="Construction">
                 <div class="overlay">
                     <div class="carousel-caption">
-                        <h3>We are Certified Engineers</h3>
-                        <h1>Construction Services</h1>
-                        <h1 class="second_heading">Creative & Professional</h1>
-                        <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,</p>
-                        <a  class="btn know_btn">know more</a>
-                        <a  class="btn know_btn">view project</a>
-                    </div>					
+                        <div class="hidden-lg"><br><br><br></div>
+                        <h3>Somos Profesionales Dedicados a </h3>
+                        <h1>Estudio y Ejecución de</h1>
+                        <h1 class="second_heading">Proyectos Eléctricos de Iluminación</h1>
+                    </div>  					
                 </div>
             </div>
         </div><!-- Carousel-inner end -->
