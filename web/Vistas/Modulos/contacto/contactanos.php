@@ -1,4 +1,6 @@
 <!-- Contact form end -->
+<div id="respuestaMensaje">
+</div>
 <section id="contact_form">
     <div class="container">
         <div class="row">
@@ -6,17 +8,17 @@
                 <h2>¿Tiene usted alguna pregunta?</h2>
                 <h2 class="second_heading" style="font-size: 35px;">¡Siéntase libre de escribirnos!</h2>
             </div>
-            <form role="form" class="form-inline text-right col-md-6" >
+            <form role="form" id="formularioContacto" class="form-inline text-right col-md-6" >
                 <div class="form-group">
-                    <input type="text" class="form-control" id="name" placeholder="Nombre">
+                    <input type="text" class="form-control" id="txtNombres" placeholder="Nombres" required>
                 </div>
                 <div class="form-group">
-                    <input type="email" class="form-control" id="email" placeholder="Email">
+                    <input type="email" class="form-control" id="txtEmail" placeholder="Email" required>
                 </div>
                 <div class="form-group">
-                    <textarea class="form-control" rows="5" id="msg" placeholder="Mensaje"></textarea>
+                    <textarea class="form-control" rows="5" id="txtMensaje" placeholder="Mensaje" required></textarea>
                 </div>
-                <button type="submit" class="btn submit_btn">Enviar</button>
+                <button type="submit" id="btnEnviarCorreo" class="btn submit_btn">Enviar</button>
             </form>             
         </div>
     </div>
