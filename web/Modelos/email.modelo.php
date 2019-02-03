@@ -5,7 +5,7 @@
 
 	class ModeloEmail{
 
-		function mdlEnviarCorreo($email,$nombres,$mensaje){
+		public function mdlEnviarCorreo($email,$nombres,$mensaje){
 			$mail = new PHPMailer(true);                              // Passing `true` enables exceptions
 			try {
 			    //Server settings

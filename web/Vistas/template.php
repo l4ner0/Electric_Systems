@@ -44,7 +44,7 @@
         
         <!-- Contact form -->
         <?php
-            include('Vistas/Modulos/Contacto/contactanos.php');
+            include('Vistas/Modulos/contacto/contactanos.php');
         ?>
         
         <!-- Footer -->

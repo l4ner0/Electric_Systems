@@ -1,7 +1,7 @@
 <?php
 
 class ControladorEmail{
-	static public  function ctrEnviarEmail($datosAjax){
+	public  function ctrEnviarEmail($datosAjax){
 		if(isset($datosAjax)){
 			$nombres=$datosAjax["nombres"];
 			$email=$datosAjax["email"];
