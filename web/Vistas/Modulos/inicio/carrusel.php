@@ -4,7 +4,7 @@
         <!-- Carousel-inner -->
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <img src="Vistas/images/footer_bg.jpg"  alt="Construction">
+                <img src="<?php echo HTML_DIR; ?>Vistas/images/footer_bg.jpg"  alt="Construction">
                 <div class="overlay">
                     <div class="carousel-caption">
                         <div class="hidden-lg"><br><br><br></div>
@@ -15,7 +15,7 @@
                 </div>
             </div>
             <div class="item">
-                <img src="Vistas/images/slider_img2.jpg" alt="Construction">
+                <img src="<?php echo HTML_DIR; ?>Vistas/images/slider_img2.jpg" alt="Construction">
                 <div class="overlay">
                     <div class="carousel-caption">
                         <div class="hidden-lg"><br><br><br></div>
@@ -26,7 +26,7 @@
                 </div>
             </div>
             <div class="item">
-                <img src="Vistas/images/slider_img3.jpg" alt="Construction">
+                <img src="<?php echo HTML_DIR; ?>Vistas/images/slider_img3.jpg" alt="Construction">
                 <div class="overlay">
                     <div class="carousel-caption">
                         <div class="hidden-lg"><br><br><br></div>

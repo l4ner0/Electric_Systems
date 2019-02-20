@@ -14,7 +14,7 @@
                    <div class="hidden-sm hidden-xs">
                         <br><br><br><br><br>
                    </div>
-                    <img src="Vistas/images/quienes-somos.webp" alt="" />
+                    <img src="<?php echo HTML_DIR; ?>Vistas/images/quienes-somos.webp" alt="" />
                         <br><br>
                 </div>
             </div>

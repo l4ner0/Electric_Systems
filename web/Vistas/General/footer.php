@@ -5,12 +5,12 @@
             <div class="col-lg-5 col-sm-7">
                 <div class="footer_item">
                     <h4>Acerca de la compañía</h4>
-                    <img class="logo" src="Vistas/images/Logo5.png" alt="Construction" />
+                    <img class="logo" src="<?php echo HTML_DIR; ?>Vistas/images/Logo5.png" alt="Construction" />
                     <p>Estamos confiados en proporcionar a nuestros clientes las soluciones adecuadas utilizando las herramientas y los mejores productos de una manera rentable.</p>
 
                     <ul class="list-inline footer_social_icon">
-                        <li><a href=""><span class="fa fa-facebook"></span></a></li>
-                        <li><a href=""><span class="fa fa-twitter"></span></a></li>
+                        <li><a href=""><span class="fab fa-facebook-f"></span></a></li>
+                        <li><a href=""><span class="fab fa-twitter"></span></a></li>
                     </ul>
                 </div>
             </div>
@@ -52,18 +52,18 @@
 </footer><!-- Footer end -->
 
 <!-- JavaScript -->
-<script src="Vistas/js/jquery-1.12.1.min.js"></script>
-<script src="Vistas/js/bootstrap.min.js"></script>
+<script src="<?php echo HTML_DIR; ?>Vistas/js/jquery-1.12.1.min.js"></script>
+<script src="<?php echo HTML_DIR; ?>Vistas/js/bootstrap.min.js"></script>
 
 <!-- Bootsnav js -->
-<script src="Vistas/js/bootsnav.js"></script>
+<script src="<?php echo HTML_DIR; ?>Vistas/js/bootsnav.js"></script>
 
 <!-- JS Implementing Plugins -->
-<script src="Vistas/js/isotope.js"></script>
-<script src="Vistas/js/isotope-active.js"></script>
-<script src="Vistas/js/jquery.fancybox.js?v=2.1.5"></script>
+<script src="<?php echo HTML_DIR; ?>Vistas/js/isotope.js"></script>
+<script src="<?php echo HTML_DIR; ?>Vistas/js/isotope-active.js"></script>
+<script src="<?php echo HTML_DIR; ?>Vistas/js/jquery.fancybox.js?v=2.1.5"></script>
 
-<script src="Vistas/js/jquery.scrollUp.min.js"></script>
+<script src="<?php echo HTML_DIR; ?>Vistas/js/jquery.scrollUp.min.js"></script>
 
-<script src="Vistas/js/main.js"></script>
-<script src="Vistas/Modulos/js/template.js"></script>
+<script src="<?php echo HTML_DIR; ?>Vistas/js/main.js"></script>
+<script src="<?php echo HTML_DIR; ?>Vistas/Modulos/js/template.js"></script>

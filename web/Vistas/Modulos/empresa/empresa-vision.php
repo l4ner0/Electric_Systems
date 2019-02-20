@@ -18,7 +18,7 @@
                    <div class="hidden-sm hidden-xs">
                     <br><br>
                    </div>
-                    <img src="Vistas/images/vision.png" alt="" />
+                    <img src="<?php echo HTML_DIR; ?>Vistas/images/vision.png" alt="" />
                     <br><br>
                 </div>
             </div>

@@ -9,8 +9,8 @@
                 <li><a><span class="fa fa-map-marker"></span> Calle 17  Mz. R  lote 36  Urb. Los Nísperos – SMP</a></li>
             </ul>
             <ul class="list-inline social_icon">
-                <li><a href=""><span class="fa fa-facebook"></span></a></li>
-                <li><a href=""><span class="fa fa-twitter"></span></a></li>
+                <li><a href=""><span class="fab fa-facebook-f"></span></a></li>
+                <li><a href=""><span class="fab fa-twitter"></span></a></li>
             </ul>			
         </div>
     </div><!-- Top Navbar end -->
@@ -23,7 +23,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                     <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="inicio"><img class="logo" src="Vistas/images/Logo5.png" alt=""></a>
+                <a class="navbar-brand" href="inicio"><img class="logo" src="<?php echo HTML_DIR; ?>Vistas/images/Logo5.png" alt=""></a>
             </div>
             <!-- Navigation -->
             <div class="collapse navbar-collapse" id="navbar-menu">

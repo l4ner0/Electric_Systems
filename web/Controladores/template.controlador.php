@@ -7,7 +7,7 @@
 			include 'Vistas/template.php';
 		}
 
-		static public function ctrEnlaces(){
+		public function ctrEnlaces(){
 			if(isset($_GET["ruta"])){
 				$enlaces = $_GET["ruta"];
 			}else{

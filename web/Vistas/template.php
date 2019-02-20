@@ -2,7 +2,7 @@
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
     <?php
-        include('General/head.php');
+        include('Vistas/General/head.php');
     ?>
    
     <body>

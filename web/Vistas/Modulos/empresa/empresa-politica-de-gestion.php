@@ -23,7 +23,7 @@
                    <div class="hidden-sm hidden-xs">
                         <br><br><br><br><br><br><br><br>
                    </div>
-                    <img src="Vistas/images/politicas.png" alt="" />
+                    <img src="<?php echo HTML_DIR; ?>Vistas/images/politicas.png" alt="" />
                     <br><br><br>
                 </div>
             </div>

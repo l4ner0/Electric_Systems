@@ -26,7 +26,7 @@
                    <div class="hidden-sm hidden-xs">
                         <br><br><br>
                    </div>
-                    <img src="Vistas/images/valores.png" alt="" />
+                    <img src="<?php echo HTML_DIR; ?>Vistas/images/valores.png" alt="" />
                     <br><br><br>
                 </div>
             </div>

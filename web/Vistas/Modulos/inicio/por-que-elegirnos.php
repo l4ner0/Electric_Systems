@@ -17,7 +17,7 @@
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="why_us_item">
-                    <span class="fa fa-clock-o"></span>
+                    <span class="fa fa-clock"></span>
                     <h4>Siempre a Tiempo</h4>
                     <p>Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento</p>
                 </div>
@@ -31,7 +31,7 @@
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="why_us_item">
-                    <span class="fa fa-line-chart"></span>
+                    <span class="fa fa-chart-line"></span>
                     <h4>Servicios Profesionales</h4>
                     <p>Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento</p>
                 </div>

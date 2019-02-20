@@ -19,7 +19,7 @@ a,button{outline: 0 !important;}
 a:hover,a:focus{ text-decoration: none}
 
 /* All Transition */
-.list-inline.info a,.list-inline.social_icon a,nav.navbar.bootsnav ul.nav > li > a,.attr-nav > ul > li > a,.btn.know_btn,#filters > button,.portfolio_hover_area,.portfolio_hover_area .fa,.testimonial_content,.testimonial_content p:first-child::before,#contact_form .form-control,#contact_form .btn.submit_btn,footer a,.footer_social_icon .fa,.post .date,#scrollUp{
+.list-inline.info a,.list-inline.social_icon a,nav.navbar.bootsnav ul.nav > li > a,.attr-nav > ul > li > a,.btn.know_btn,#filters > button,.portfolio_hover_area,.portfolio_hover_area .fa,.testimonial_content,.testimonial_content p:first-child::before,#contact_form .form-control,#contact_form .btn.submit_btn,footer a,.footer_social_icon .fab,.post .date,#scrollUp{
     transition: all 0.4s ease;
     -webkit-transition: all 0.4s ease;
     -moz-transition: all 0.4s ease;
@@ -628,7 +628,7 @@ footer::after {
 .list-inline.footer_social_icon {
     margin: 32px 0 0;
 }
-.footer_social_icon .fa {
+.footer_social_icon .fab {
     background: #ffcb0f none repeat scroll 0 0;
     border-radius: 100%;
     color: #222;
@@ -638,7 +638,7 @@ footer::after {
     text-align: center;
     width: 45px;
 }
-.footer_item .footer_social_icon .fa:hover,.footer_item .footer_social_icon .fa:focus {
+.footer_item .footer_social_icon .fab:hover,.footer_item .footer_social_icon .fab:focus {
     background: #d7a300 none repeat scroll 0 0;
 }
 /* Footer Explore */

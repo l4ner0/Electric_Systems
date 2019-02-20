@@ -9,7 +9,7 @@
                     <div class="testimonial_content text-left">
                         <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,</p>
                     </div>
-                    <img src="Vistas/images/testimonial_img1.png" alt="Testimonial" />
+                    <img src="<?php echo HTML_DIR; ?>Vistas/images/testimonial_img1.png" alt="Testimonial" />
                     <p class="worker_name">john smith</p>
                 </div>
             </div>
@@ -18,7 +18,7 @@
                     <div class="testimonial_content">
                         <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,</p>
                     </div>
-                    <img src="Vistas/images/testimonial_img2.png" alt="Testimonial" />
+                    <img src="<?php echo HTML_DIR; ?>Vistas/images/testimonial_img2.png" alt="Testimonial" />
                     <p class="worker_name">john smith</p>
                 </div>
             </div>
@@ -27,7 +27,7 @@
                     <div class="testimonial_content">
                         <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,</p>
                     </div>
-                    <img src="Vistas/images/testimonial_img1.png" alt="Testimonial" />
+                    <img src="<?php echo HTML_DIR; ?>Vistas/images/testimonial_img1.png" alt="Testimonial" />
                     <p class="worker_name">john smith</p>
                 </div>
             </div>
