@@ -45,12 +45,12 @@
                         Servicios
                       </a>
                       <ul class="dropdown-menu" role="menu" aria-labelledby="menuServicios">
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios-servicio">Proyectos Eléctricos</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios-servicio">Instalaciones Eléctricas</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios-servicio">Mantenimiento</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios-servicio">Iluminación</a>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios-proyectos-electricos">Proyectos Eléctricos</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios-instalaciones-electricas">Instalaciones Eléctricas</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios-mantenimiento">Mantenimiento</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios-iluminacion">Iluminación</a>
                         </li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios-servicio">Otros Servicios</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="servicios-otros-servicios">Otros Servicios</a></li>
                       </ul>
                     </li>
                     <li class="dropdown">

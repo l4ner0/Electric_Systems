@@ -12,6 +12,7 @@
 							<li>Trabajo en Equipo</li>
 							<li>Compromiso</li>
 							<li>Disciplina</li>
+                            <li>Puntualidad</li>
                     	</ul>
                     </p>
                     <br>
