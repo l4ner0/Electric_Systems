@@ -58,9 +58,9 @@
                         Productos
                       </a>
                       <ul class="dropdown-menu" role="menu" aria-labelledby="menuProductos">
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="productos-producto">Tableros eléctricos</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="productos-producto">Bandejas portacables</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="productos-producto">Celdas en media tensión</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="productos-tableros-electricos">Tableros eléctricos</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="productos-bandejas-portacables">Bandejas portacables</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="productos-celdas">Celdas en media tensión</a></li>
                       </ul>
                     </li>
                     <li><a href="#contact_form">Contactanos</a></li>
