@@ -5,8 +5,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2>¿Tiene usted alguna pregunta?</h2>
-                <h2 class="second_heading" style="font-size: 35px;">¡Siéntase libre de escribirnos!</h2>
+                <h2>Su pregunta es importante para nosotros</h2>
+                <h2 class="second_heading" style="font-size: 30px;">¡LE AGRADECEMOS POR ELLO, ESCRIBANOS!</h2>
             </div>
             <form role="form" id="formularioContacto" class="form-inline text-right col-md-6" >
                 <div class="form-group">

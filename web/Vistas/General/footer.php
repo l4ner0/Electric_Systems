@@ -32,7 +32,7 @@
                     <ul class="list-unstyled footer_contact">
                         <li><a><span class="fa fa-map-marker"></span> Calle 17  Mz. R  lote 36  Urb. Los Nísperos – SMP</a></li>
                         <li><a><span class="fa fa-envelope"></span> rlcelectricsystems@gmail.com</a></li>
-                        <li><a><span class="fa fa-mobile"></span><p>999857183 <br />938567893</p></a></li>
+                        <li><a><span class="fa fa-mobile"></span><p>938567893  <br />938433167</p></a></li>
                     </ul>
                 </div>
             </div>

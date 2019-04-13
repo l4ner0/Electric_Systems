@@ -19,7 +19,6 @@
                 <div class="overlay">
                     <div class="carousel-caption">
                         <div class="hidden-lg"><br><br><br></div>
-                        <h3>Somos Profesionales Dedicados a </h3>
                         <h1>Automatización de </h1>
                         <h1 class="second_heading">Plantas Industriales</h1>
                     </div>  					
@@ -30,7 +29,6 @@
                 <div class="overlay">
                     <div class="carousel-caption">
                         <div class="hidden-lg"><br><br><br></div>
-                        <h3>Somos Profesionales Dedicados a </h3>
                         <h1>Estudio y Ejecución de</h1>
                         <h1 class="second_heading">Proyectos Eléctricos de Iluminación</h1>
                     </div>  					

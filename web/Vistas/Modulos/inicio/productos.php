@@ -1,7 +1,7 @@
 <section id="portfolio">
     <div class="container portfolio_area text-center">
         <h2>Nuestros Productos</h2>
-        <p>Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento Escribir aqui un argumento</p>
+        <p>Nuestros productos son fabricados bajos los estándares nacionales e internacionales. Empleamos materiales y equipos de marca reconocidas de primer uso, certificadas, confiables con garantía de acuerdo al requerimiento de nuestros clientes. Durante el desarrollo del todo el proceso mantenemos el cuidado del medio ambiente.</p>
 
         <!-- Portfolio grid -->     
         <div class="grid">
