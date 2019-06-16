@@ -4,34 +4,43 @@
         <!-- Carousel-inner -->
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <img src="<?php echo HTML_DIR; ?>Vistas/images/Principal/automatizacion-plantas-industriales.jpg"  alt="Construction">
+                <img src="<?php echo HTML_DIR; ?>Vistas/images/Principal/slider1.jpg"  alt="Construction">
                 <div class="overlay">
                     <div class="carousel-caption">
                         <div class="hidden-lg"><br><br><br></div>
-                        <h3>Somos Profesionales Dedicados a </h3>
-                        <h1>Elaboración y Ejecución de Proyectos Eléctricos</h1>
-                        <h1 class="second_heading">En Media y Baja Tensión</h1>
+                        <<h1>Automatización de </h1>
+                        <h1 class="second_heading">Plantas Industriales</h1>
                     </div>					
                 </div>
             </div>
             <div class="item">
-                <img src="<?php echo HTML_DIR; ?>Vistas/images/slider_img2.jpg" alt="Construction">
-                <div class="overlay">
-                    <div class="carousel-caption">
-                        <div class="hidden-lg"><br><br><br></div>
-                        <h1>Automatización de </h1>
-                        <h1 class="second_heading">Plantas Industriales</h1>
-                    </div>  					
-                </div>
-            </div>
-            <div class="item">
-                <img src="<?php echo HTML_DIR; ?>Vistas/images/slider_img3.jpg" alt="Construction">
+                <img src="<?php echo HTML_DIR; ?>Vistas/images/Principal/slider2.jpg" alt="Construction">
                 <div class="overlay">
                     <div class="carousel-caption">
                         <div class="hidden-lg"><br><br><br></div>
                         <h1>Estudio y Ejecución de</h1>
                         <h1 class="second_heading">Proyectos Eléctricos de Iluminación</h1>
                     </div>  					
+                </div>
+            </div>
+            <div class="item">
+                <img src="<?php echo HTML_DIR; ?>Vistas/images/Principal/slider3.jpg"  alt="Construction">
+                <div class="overlay">
+                    <div class="carousel-caption">
+                        <div class="hidden-lg"><br><br><br></div>
+                        <<h1>Automatización de </h1>
+                        <h1 class="second_heading">Plantas Industriales</h1>
+                    </div>                  
+                </div>
+            </div>
+            <div class="item">
+                <img src="<?php echo HTML_DIR; ?>Vistas/images/Principal/slider4.jpg" alt="Construction">
+                <div class="overlay">
+                    <div class="carousel-caption">
+                        <div class="hidden-lg"><br><br><br></div>
+                        <h1>Estudio y Ejecución de</h1>
+                        <h1 class="second_heading">Proyectos Eléctricos de Iluminación</h1>
+                    </div>                      
                 </div>
             </div>
         </div><!-- Carousel-inner end -->
