@@ -2,7 +2,7 @@
     <!-- Footer top -->
     <div class="container footer_top">
         <div class="row">
-            <div class="col-lg-5 col-sm-7">
+            <div class="col-lg-5 col-md-5 col-sm-7">
                 <div class="footer_item">
                     <h4>Acerca de la compañía</h4>
                     <img class="logo" src="<?php echo HTML_DIR; ?>Vistas/images/Logo5.png" alt="Construction" />
@@ -14,7 +14,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-5">
+            <div class="col-lg-3 col-md-3">
                 <div class="footer_item">
                     <h4>Explorar enlaces</h4>
                     <ul class="list-unstyled footer_menu">
@@ -26,7 +26,7 @@
                 </div>
             </div>
             
-            <div class="col-lg-4 col-sm-5">
+            <div class="col-lg-4 col-md-4 col-sm-5">
                 <div class="footer_item">
                     <h4>Contactanos</h4>
                     <ul class="list-unstyled footer_contact">

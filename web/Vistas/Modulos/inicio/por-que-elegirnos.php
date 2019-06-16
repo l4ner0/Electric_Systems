@@ -19,7 +19,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="why_us_item">
                     <!--<span class="fa fa-clock"></span> -->
-                    <span><img src="<?php echo HTML_DIR; ?>Vistas/images/por-que-elegirnos/siempre_a_tiempo.gif"></span>
+                    <span><img src="<?php echo HTML_DIR; ?>Vistas/images/por-que-elegirnos/siempre_a_tiempo.png"></span>
                     <h4>Siempre a Tiempo</h4>
                     <p>Planificación y estrategia. Contamos con el recurso humano y logístico para el desarrollo y cumplimiento de sus proyectos a tiempo.</p>
                 </div>
