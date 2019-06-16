@@ -4,7 +4,7 @@
         <!-- Carousel-inner -->
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <img src="<?php echo HTML_DIR; ?>Vistas/images/footer_bg.jpg"  alt="Construction">
+                <img src="<?php echo HTML_DIR; ?>Vistas/images/Principal/automatizacion-plantas-industriales.jpg"  alt="Construction">
                 <div class="overlay">
                     <div class="carousel-caption">
                         <div class="hidden-lg"><br><br><br></div>
