@@ -1,0 +1,2 @@
+[13-Apr-2019 03:08:54 UTC] PHP Deprecated:  Non-static method ControladorEmail::ctrEnviarEmail() should not be called statically, assuming $this from incompatible context in /home/syeuafxn/public_html/Ajax/email.ajax.php on line 14
+[13-Apr-2019 03:08:54 UTC] PHP Deprecated:  Non-static method ModeloEmail::mdlEnviarCorreo() should not be called statically, assuming $this from incompatible context in /home/syeuafxn/public_html/Controladores/email.controlador.php on line 9

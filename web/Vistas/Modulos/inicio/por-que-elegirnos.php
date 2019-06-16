@@ -10,28 +10,32 @@
         <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="why_us_item">
-                    <span class="fa fa-check"></span>
+                    <!--<span class="fa fa-clock"></span> -->
+                    <span><img src="<?php echo HTML_DIR; ?>Vistas/images/por-que-elegirnos/Entregamos_Calidad.png"></span>
                     <h4>Entregamos Calidad</h4>
                     <p>Servicios de Calidad y Profesionalismo con productos de calidad de marca reconocida, certificadas, confiables y manteniendo el cuidado del medio ambiente. </p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="why_us_item">
-                    <span class="fa fa-clock"></span>
+                    <!--<span class="fa fa-clock"></span> -->
+                    <span><img src="<?php echo HTML_DIR; ?>Vistas/images/por-que-elegirnos/siempre_a_tiempo.gif"></span>
                     <h4>Siempre a Tiempo</h4>
                     <p>Planificación y estrategia. Contamos con el recurso humano y logístico para el desarrollo y cumplimiento de sus proyectos a tiempo.</p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="why_us_item">
-                    <span class="fa fa-heart"></span>
+                    <!--<span class="fa fa-heart"></span>-->
+                    <span><img src="<?php echo HTML_DIR; ?>Vistas/images/por-que-elegirnos/completamente_dedicados.png"></span>
                     <h4>Completamente Dedicados</h4>
                     <p>Siempre comprometidos y dedicados con los trabajos encomendados, analizando sus problemas operativos y brindando soluciones integrales.</p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="why_us_item">
-                    <span class="fa fa-chart-line"></span>
+                    <!--<span class="fa fa-chart-line"></span>-->
+                    <span><img src="<?php echo HTML_DIR; ?>Vistas/images/por-que-elegirnos/servicios_profesionales.png"></span>
                     <h4>Servicios Profesionales</h4>
                     <p>Contamos con Ingenieros y técnicos especializados en las diversas áreas de la Ingeniería eléctrica manteniendo una capacitación constante de actualización.</p>
                 </div>
