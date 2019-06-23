@@ -28,19 +28,9 @@
                 <div class="overlay">
                     <div class="carousel-caption">
                         <div class="hidden-lg"><br><br><br></div>
-                        <<h1>Automatización de </h1>
-                        <h1 class="second_heading">Plantas Industriales</h1>
+                        <<h1>Elaboración y Ejecución de</h1>
+                        <h1 class="second_heading">Proyectos Eléctricos En Media Tensión</h1>
                     </div>                  
-                </div>
-            </div>
-            <div class="item">
-                <img src="<?php echo HTML_DIR; ?>Vistas/images/Principal/slider4.jpg" alt="Construction">
-                <div class="overlay">
-                    <div class="carousel-caption">
-                        <div class="hidden-lg"><br><br><br></div>
-                        <h1>Estudio y Ejecución de</h1>
-                        <h1 class="second_heading">Proyectos Eléctricos de Iluminación</h1>
-                    </div>                      
                 </div>
             </div>
         </div><!-- Carousel-inner end -->

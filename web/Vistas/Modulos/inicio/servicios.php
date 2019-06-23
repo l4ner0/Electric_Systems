@@ -16,7 +16,7 @@
             </div>
             <div class="col-md-4">
                 <div class="service_item">
-                    <img src="<?php echo HTML_DIR; ?>Vistas/images/servicios/Nuestro-servicios-Instalaciones-electricas-en-baja-tension-1.jpg" alt="Our Services" />
+                    <img src="<?php echo HTML_DIR; ?>Vistas/images/servicios/Nuestros-servicios-instalaciones-electricas-en-media-tension-1.jpg" alt="Our Services" />
                     <h3>INSTALACIONES ELECTRICAS EN MEDIA Y BAJA TENSION</h3>
                    <p>Comprometidos con nuestros clientes utilizamos nuestra experiencia en seleccionar la mejor opción en costos y calidad de los materiales y equipos para las instalaciones y montajes de:</p>
                    <ul>
@@ -28,7 +28,7 @@
             </div>
             <div class="col-md-4">
                 <div class="service_item">
-                    <img src="<?php echo HTML_DIR; ?>Vistas/images/servicios/Nuestros-servicios-Mantenimiento-1.jpg" alt="Our Services" />
+                    <img src="<?php echo HTML_DIR; ?>Vistas/images/servicios/Nuestros-servicios-mantenimiento.jpg" alt="Our Services" />
                     <h3>MANTENIMIENTO</h3>
                    <p>Dentro del presente ítem desarrollamos lo siguiente:</p>
                    <ul>
