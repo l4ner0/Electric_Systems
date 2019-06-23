@@ -1,4 +1,4 @@
-<section id="home" class="home">
+<section>
     <!-- Carousel -->
     <div id="carousel" class="carousel slide" data-ride="carousel">
         <!-- Carousel-inner -->
@@ -8,7 +8,7 @@
                 <div class="overlay">
                     <div class="carousel-caption">
                         <div class="hidden-lg"><br><br><br></div>
-                        <<h1>Automatización de </h1>
+                        <h1>Automatización de </h1>
                         <h1 class="second_heading">Plantas Industriales</h1>
                     </div>					
                 </div>

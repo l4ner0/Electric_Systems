@@ -21,7 +21,7 @@
                 </div>
             </div>
             <div class="col-md-4"> 
-               <img src="<?php echo HTML_DIR; ?>Vistas/images/ejemploServicio.png" alt="Our Services" /> 
+               <img src="<?php echo HTML_DIR; ?>Vistas/images/Servicios/Nuestros-servicios-Mantenimiento-1.jpg" alt="Our Services" /> 
             </div>
         </div>
     </div>
