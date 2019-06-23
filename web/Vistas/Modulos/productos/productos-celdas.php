@@ -16,7 +16,7 @@
                 </div>
             </div>
             <div class="col-md-4"> 
-               <img src="<?php echo HTML_DIR; ?>Vistas/images/" alt="Imagen Producto" /> 
+               <img src="<?php echo HTML_DIR; ?>Vistas/images/productos/celdas2.jpg" alt="Imagen Producto"/> 
             </div>
         </div>
     </div>

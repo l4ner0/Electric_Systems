@@ -22,14 +22,20 @@
                 </div>  
             </div>
 
-           <!-- <div class="grid-item isolation isolation">
-                <img alt="" src="<?php echo HTML_DIR; ?>Vistas/images/productos/Montaje-Iluminacion.jpg" >
+            <div class="grid-item isolation isolation">
+                <img alt="" src="<?php echo HTML_DIR; ?>Vistas/images/productos/celdas1.jpg" >
                 <div class="portfolio_hover_area">
-                    <a class="fancybox" href="<?php echo HTML_DIR; ?>Vistas/images/productos/Montaje-Iluminacion.jpg" data-fancybox-group="gallery" title="Montaje Iluminacion"><span class="fa fa-search"></span></a>
-                    <a href="productos-tableros-electricos"><span class="fa fa-info-circle"></span></a>
+                    <a class="fancybox" href="<?php echo HTML_DIR; ?>Vistas/images/productos/celdas1.jpg" data-fancybox-group="gallery" title="Celdas en Media Tensión"><span class="fa fa-search"></span></a>
+                    <a href="productos-celdas"><span class="fa fa-info-circle"></span></a>
                 </div>  
-            </div> -->
-            
+            </div>
+            <div class="grid-item isolation isolation">
+                <img alt="" src="<?php echo HTML_DIR; ?>Vistas/images/productos/celdas2.jpg" >
+                <div class="portfolio_hover_area">
+                    <a class="fancybox" href="<?php echo HTML_DIR; ?>Vistas/images/productos/celdas2.jpg" data-fancybox-group="gallery" title="Celdas en Media Tensión"><span class="fa fa-search"></span></a>
+                    <a href="productos-celdas"><span class="fa fa-info-circle"></span></a>
+                </div>  
+            </div>
             <div class="grid-item isolation isolation">
                 <img alt="" src="<?php echo HTML_DIR; ?>Vistas/images/productos/Tablero-de-distribucion.jpg" >
                 <div class="portfolio_hover_area">
