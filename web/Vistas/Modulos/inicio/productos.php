@@ -9,7 +9,7 @@
             <div class="grid-item buildings interior isolation">
                 <img alt="" src="<?php echo HTML_DIR; ?>Vistas/images/productos/Mantenimiento-tableros-procesos.jpg" >
                 <div class="portfolio_hover_area">
-                    <a class="fancybox" href="<?php echo HTML_DIR; ?>Vistas/images/productos/Mantenimiento-tableros-procesos.jpg" data-fancybox-group="gallery" title="Mantenimiento tableros procesos"><span class="fa fa-search"></span></a>
+                    <a class="fancybox" href="<?php echo HTML_DIR; ?>Vistas/images/productos/Mantenimiento-tableros-procesos.jpg" data-fancybox-group="gallery" title="Tableros Eléctricos"><span class="fa fa-search"></span></a>
                     <a href="productos-tableros-electricos"><span class="fa fa-info-circle"></span></a>
                 </div>   
             </div>
@@ -22,36 +22,36 @@
                 </div>  
             </div>
 
-            <div class="grid-item isolation isolation">
+           <!-- <div class="grid-item isolation isolation">
                 <img alt="" src="<?php echo HTML_DIR; ?>Vistas/images/productos/Montaje-Iluminacion.jpg" >
                 <div class="portfolio_hover_area">
                     <a class="fancybox" href="<?php echo HTML_DIR; ?>Vistas/images/productos/Montaje-Iluminacion.jpg" data-fancybox-group="gallery" title="Montaje Iluminacion"><span class="fa fa-search"></span></a>
-                    <a href="productos-celdas"><span class="fa fa-info-circle"></span></a>
+                    <a href="productos-tableros-electricos"><span class="fa fa-info-circle"></span></a>
                 </div>  
-            </div>
+            </div> -->
             
             <div class="grid-item isolation isolation">
                 <img alt="" src="<?php echo HTML_DIR; ?>Vistas/images/productos/Tablero-de-distribucion.jpg" >
                 <div class="portfolio_hover_area">
-                    <a class="fancybox" href="<?php echo HTML_DIR; ?>Vistas/images/productos/Tablero-de-distribucion.jpg" data-fancybox-group="gallery" title="Tablero de distribucion"><span class="fa fa-search"></span></a>
-                    <a href="productos-celdas"><span class="fa fa-info-circle"></span></a>
+                    <a class="fancybox" href="<?php echo HTML_DIR; ?>Vistas/images/productos/Tablero-de-distribucion.jpg" data-fancybox-group="gallery" title="Tableros Eléctricos"><span class="fa fa-search"></span></a>
+                    <a href="productos-tableros-electricos"><span class="fa fa-info-circle"></span></a>
                 </div>  
             </div>
             <div class="grid-item isolation isolation">
                 <img alt="" src="<?php echo HTML_DIR; ?>Vistas/images/productos/Tablero-distribucion-1.jpg" >
                 <div class="portfolio_hover_area">
-                    <a class="fancybox" href="<?php echo HTML_DIR; ?>Vistas/images/productos/Tablero-distribucion-1.jpg" data-fancybox-group="gallery" title="Tablero distribucion"><span class="fa fa-search"></span></a>
-                    <a href="productos-celdas"><span class="fa fa-info-circle"></span></a>
+                    <a class="fancybox" href="<?php echo HTML_DIR; ?>Vistas/images/productos/Tablero-distribucion-1.jpg" data-fancybox-group="gallery" title="Tableros Eléctricos"><span class="fa fa-search"></span></a>
+                    <a href="productos-tableros-electricos"><span class="fa fa-info-circle"></span></a>
                 </div>  
             </div>
             
             <div class="grid-item isolation isolation">
                 <img alt="" src="<?php echo HTML_DIR; ?>Vistas/images/productos/Transferencia-automatico.jpg" >
                 <div class="portfolio_hover_area">
-                    <a class="fancybox" href="<?php echo HTML_DIR; ?>Vistas/images/productos/Transferencia-automatico.jpg" data-fancybox-group="gallery" title="Transferencia automatico"><span class="fa fa-search"></span></a>
-                    <a href="productos-celdas"><span class="fa fa-info-circle"></span></a>
+                    <a class="fancybox" href="<?php echo HTML_DIR; ?>Vistas/images/productos/Transferencia-automatico.jpg" data-fancybox-group="gallery" title="Tableros Eléctricos"><span class="fa fa-search"></span></a>
+                    <a href="productos-tableros-electricos"><span class="fa fa-info-circle"></span></a>
                 </div>  
-            </div>
+            </div> 
 
         </div><!-- Portfolio grid end -->
     </div>

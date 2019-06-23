@@ -17,7 +17,7 @@
                 </div>
             </div>
             <div class="col-md-4"> 
-               <img src="<?php echo HTML_DIR; ?>Vistas/images/ejemploServicio.png" alt="Our Services" /> 
+               <img src="<?php echo HTML_DIR; ?>Vistas/images/Servicios/Instalacion-electrica-equipos-AA.jpg" alt="Imagen Servicios" /> 
             </div>
         </div>
     </div>

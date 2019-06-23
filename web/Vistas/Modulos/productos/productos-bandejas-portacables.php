@@ -14,7 +14,7 @@
                 </div>
             </div>
             <div class="col-md-4"> 
-               <img src="<?php echo HTML_DIR; ?>Vistas/images/productos/bandejaPortacableLisoCanal.png" alt="Imagen Producto" /> 
+               <img src="<?php echo HTML_DIR; ?>Vistas/images/productos/Montaje-bandeja.jpg" alt="Imagen Producto" /> 
             </div>
         </div>
     </div>
