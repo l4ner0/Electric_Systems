@@ -24,7 +24,7 @@
                 </div>
             </div>
             <div class="item">
-                <img src="<?php echo HTML_DIR; ?>Vistas/images/Principal/slider3.jpg"  alt="Construction">
+                <img src="<?php echo HTML_DIR; ?>Vistas/images/Principal/Slider3.jpg"  alt="Construction">
                 <div class="overlay">
                     <div class="carousel-caption">
                         <div class="hidden-lg"><br><br><br></div>
