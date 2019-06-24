@@ -5,7 +5,7 @@
         <div class="container">
             <ul class="list-inline info">
                 <li><a><span class="fa fa-phone"></span> 938567893  / 938433167</a></li>
-                <li><a><span class="fa fa-envelope"></span> rlcelectricsystems@gmail.com</a></li>
+                <li><a><span class="fa fa-envelope"></span> rlcelectricsystems@rlcelectricsystems.com</a></li>
                 <li><a><span class="fa fa-map-marker"></span> Calle 17  Mz. R  lote 36  Urb. Los Nísperos – SMP</a></li>
             </ul>
             <ul class="list-inline social_icon">

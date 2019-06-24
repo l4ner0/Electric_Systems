@@ -27,7 +27,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="why_us_item">
                     <!--<span class="fa fa-heart"></span>-->
-                    <span><img src="<?php echo HTML_DIR; ?>Vistas/images/por-que-elegirnos/Completamente_dedicados.png"></span>
+                    <span><img src="<?php echo HTML_DIR; ?>Vistas/images/por-que-elegirnos/completamente_dedicados.png"></span>
                     <h4>Completamente Dedicados</h4>
                     <p>Siempre comprometidos y dedicados con los trabajos encomendados, analizando sus problemas operativos y brindando soluciones integrales.</p>
                 </div>

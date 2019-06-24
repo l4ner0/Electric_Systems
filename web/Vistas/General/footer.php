@@ -31,34 +31,22 @@
                     <h4>Contactanos</h4>
                     <ul class="list-unstyled footer_contact">
                         <li><a><span class="fa fa-map-marker"></span> Calle 17  Mz. R  lote 36  Urb. Los Nísperos – SMP</a></li>
-                        <li><a><span class="fa fa-envelope"></span> rlcelectricsystems@gmail.com</a></li>
+                        <li><a><span class="fa fa-envelope"></span> rlcelectricsystems@rlcelectricsystems.com</a></li>
                         <li><a><span class="fa fa-mobile"></span><p>938567893  <br />938433167</p></a></li>
                     </ul>
                 </div>
             </div>
         </div>
     </div><!-- Footer top end -->
-
     <!-- Footer bottom -->
-    <div class="footer_bottom text-center">   
-        <p class="wow fadeInRight">
-            Hecho con 
-            <i class="fa fa-heart"></i>
-            por 
-            <a target="_blank" href="http://bootstrapthemes.co">Bootstrap Themes</a> 
-            <?php echo date("Y");?>. Todos los derechos reservados.
-        </p>
-    </div><!-- Footer bottom end -->
-
-    <!-- Footer bottom 
     <div class="footer_bottom text-center"> 
         <p class="wow fadeInRight">
             &copy;                
-            <?php //echo date("Y");?>
+            <?php echo date("Y");?>
             Copyright
-            <a target="_blank" href="inicio">electricsystemsperu.com</a> 
+            <a target="_blank" href="inicio">rlcelectricsystems.com</a> 
         </p>
-    </div> Footer bottom end -->
+    </div> 
 </footer><!-- Footer end -->
 
 <!-- JavaScript -->
